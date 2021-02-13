@@ -1,0 +1,15 @@
+/* color variables created */
+:root {
+    --text-and-border: #556B2F;
+    --main-background: #DEB887;
+    --subtitle-border: #DCDCDC;
+}
+
+/* body described  */
+body {
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: 'Open Sans', sans-serif;
+    background-color: var(--main-background);
+}
