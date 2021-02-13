@@ -22,3 +22,15 @@ header {
     width: 100%;
     background-color: var(--text-and-border);
 }
+
+/* class "name" described */
+.name {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 40px 40px 40px 150px;
+    font-size: 40px;
+    color: var(--text-and-border);
+    background-color: var(--subtitle-border);
+    border-radius: 0px 25px 25px 0px;
+}
