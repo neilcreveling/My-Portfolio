@@ -75,3 +75,11 @@ a {
     background-color: var(--subtitle-border);
     border-radius: 25px 0px 0px 25px;
 }
+
+/* main element described */
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
