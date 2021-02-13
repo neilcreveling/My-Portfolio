@@ -44,3 +44,11 @@ nav {
     padding: 40px auto 40px 40px;
 }
 
+/* a links described */
+a {
+    padding: 14px 20px;
+    font-size: 24px;
+    color: var(--subtitle-border);
+    text-decoration: underline;
+    text-align: center;
+}
