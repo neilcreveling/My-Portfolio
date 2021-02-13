@@ -128,4 +128,9 @@ main {
     justify-content: space-between;
 }
 
+/* added media query to make page dynamic on different screen sizes */
+@media screen and (max-width: 768px) {
+    .contact-me-content {
+      display: flex;
+      flex-direction: column;
 
