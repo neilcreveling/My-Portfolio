@@ -7,10 +7,10 @@
 
 /* body described  */
 body {
+    font-family: 'Open Sans', sans-serif;
     margin: 0;
     width: 100%;
     overflow-x: hidden;
-    font-family: 'Open Sans', sans-serif;
     background-color: var(--main-background);
 }
 
@@ -55,6 +55,10 @@ a {
 
 /* described "container" and "subtitle" classes */
 
+main {
+    margin: 25%;
+}
+
 .container {
     position: relative;
     text-align: center;
@@ -94,23 +98,37 @@ main {
 }
 
 /* h2 elements under "main-content" class element described */
+/* defined margins and font sizes for titles and about me content */
 
 #about-me-title {
+    margin-bottom: 5%;
+    font-size: 36px;
     text-decoration: underline;
 }
 
 #work-title {
+    margin-bottom: 5%;
+    font-size: 36px;
     text-decoration: underline;
 }
 
 #contact-me-title {
+    margin-bottom: 5%;
+    font-size: 36px;
     text-decoration: underline;
 }
 
+p {
+    margin-bottom: 5%;
+    font-size: 18px;
+}
+
 /* described elements for images */
+/* defined image row margin */
 .image-row {
     display: flex;
     flex-direction: row;
+    margin-bottom: 5%;
 }
 
 .image-large {
