@@ -107,3 +107,19 @@ main {
     text-decoration: underline;
 }
 
+/* described elements for images */
+.image-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.image-large {
+    border: 4px solid var(--subtitle-border);
+}
+
+.image-regular {
+    border: 4px solid var(--subtitle-border);
+}
+
+
+
