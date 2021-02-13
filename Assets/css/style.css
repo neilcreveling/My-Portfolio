@@ -93,3 +93,17 @@ main {
     color: var(--text-and-border);
 }
 
+/* h2 elements under "main-content" class element described */
+
+#about-me-title {
+    text-decoration: underline;
+}
+
+#work-title {
+    text-decoration: underline;
+}
+
+#contact-me-title {
+    text-decoration: underline;
+}
+
