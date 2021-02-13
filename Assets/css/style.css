@@ -13,3 +13,12 @@ body {
     font-family: 'Open Sans', sans-serif;
     background-color: var(--main-background);
 }
+
+/* header described */
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    background-color: var(--text-and-border);
+}
