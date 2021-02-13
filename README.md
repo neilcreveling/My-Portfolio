@@ -3,7 +3,7 @@ Neil Creveling's professional portfolio web page.
 
 A web developer's portfolio acts as an employer's first look at who you are as a professional. This page should display a designer's strongest work, provide essentials such as contact information, and reflect one's personality and general approach to web design. It is crucial for all web developers, on the job hunt or otherwise, to have a professional portfolio webpage containing multiple deployed projects readily available at all times.
 
-![My Portfolio](https://raw.github.com/neilcreveling/{repository}/{branch}/{path})
+![My Portfolio](https://github.com/neilcreveling/My-Portfolio/Assets/Images/my-portfolio-readme.png)
 
 ##Basic Functionality
 Starting off, I made sure to include a clear heading with my name navigation bar at the top of my page. When one clicks on each of the options on the bar, the page scrolls down to the appropriate sections of the body of the web page. This allows for simple and quick access to each of the different parts contained within the webpage, rather than having to clumsily scroll through a disorganized page.
