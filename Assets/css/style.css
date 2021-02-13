@@ -52,3 +52,26 @@ a {
     text-decoration: underline;
     text-align: center;
 }
+
+/* described "container" and "subtitle" classes */
+
+.container {
+    position: relative;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 50px;
+    color: var(--text-and-border);
+    border: 40px;
+    border-color: var(--subtitle-border);
+}
+
+.subtitle {
+    position: absolute;
+    right: 0%;
+    top: 25%;
+    width: 400px;
+    height: 30px;
+    border: 20px solid var(--subtitle-border);
+    background-color: var(--subtitle-border);
+    border-radius: 25px 0px 0px 25px;
+}
