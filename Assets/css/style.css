@@ -121,5 +121,11 @@ main {
     border: 4px solid var(--subtitle-border);
 }
 
+/* contact-me-content described */
+.contact-me-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
 
